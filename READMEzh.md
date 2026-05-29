@@ -1,2 +1,2 @@
-# unitree_mjlab_keyboard
+# unitree_mjlab_moon
 这是一个基于unitree_mjlab的面向月球类环境延展研究的仓库
